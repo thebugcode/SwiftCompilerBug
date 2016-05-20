@@ -1,7 +1,7 @@
 # SwiftCompilerBug
 
 
-This demo project shows how subclassing a file with an private field gives a compile error when deploying on a real device.
+This demo project shows how subclassing a class with a private field gives a compile error when deploying on a real device.
 
 Steps to reproduce.
 
