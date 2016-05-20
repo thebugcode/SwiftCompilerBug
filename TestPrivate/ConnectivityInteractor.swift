@@ -9,5 +9,6 @@
 import Foundation
 
 class ConnectivityChecker: NSObject {
-    private var reachability: Bool?
+    private var reachable: Bool?
+
 }

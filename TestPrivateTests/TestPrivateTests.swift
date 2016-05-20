@@ -9,8 +9,8 @@
 import XCTest
 @testable import TestPrivate
 
-class UnreachableConnectivityChecker: ConnectivityChecker {
- 
-}
 
+
+class UnreachableConnectivityChecker: ConnectivityChecker {
+}
 
